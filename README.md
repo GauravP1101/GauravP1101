@@ -90,8 +90,8 @@
   <a href="https://grafana.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" alt="Grafana" width="40"/></a>
   <a href="https://prometheus.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" alt="Prometheus" width="40"/></a>
   <a href="https://www.elastic.co/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" alt="Elasticsearch" width="40"/></a>
-  <a href="https://www.tableau.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" alt="Tableau" width="40"/></a>
-  <a href="https://powerbi.microsoft.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" alt="Power BI" width="40"/></a>
+  <a href="https://www.tableau.com/" target="_blank"><img src="https://github.com/devicons/devicon/tree/v2.17.0/icons/tableau/tableau-original.svg" alt="Tableau" width="40"/></a>
+  <a href="https://powerbi.microsoft.com/" target="_blank"><img src="https://github.com/devicons/devicon/tree/v2.17.0/icons/powerbi/powerbi-original.svg" alt="Power BI" width="40"/></a>
 </p>  
 
 ---
