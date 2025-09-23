@@ -28,43 +28,53 @@
 
 ### 🧰 Tech Toolbox
 
-<p align="center">
-  <!-- Languages -->
+#### 📝 Languages
+<p>
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000000" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-003B57?logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white" />
+</p>
 
-  <!-- Frontend -->
+#### 🎨 Frontend
+<p>
   <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white" />
   <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" />
+</p>
 
-  <!-- Backend -->
+#### ⚙️ Backend
+<p>
   <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white" />
+</p>
 
-  <!-- Databases -->
+#### 🗄️ Databases
+<p>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white" />
   <img src="https://img.shields.io/badge/Cassandra-1287B1?logo=apachecassandra&logoColor=white" />
   <img src="https://img.shields.io/badge/DynamoDB-4053D6?logo=amazondynamodb&logoColor=white" />
+</p>
 
-  <!-- Data/Streaming -->
+#### 🔄 Data & Streaming
+<p>
   <img src="https://img.shields.io/badge/Kafka-231F20?logo=apachekafka&logoColor=white" />
   <img src="https://img.shields.io/badge/Spark-E25A1C?logo=apachespark&logoColor=white" />
   <img src="https://img.shields.io/badge/Flink-E6526F?logo=apacheflink&logoColor=white" />
   <img src="https://img.shields.io/badge/Airflow-017CEE?logo=apacheairflow&logoColor=white" />
+</p>
 
-  <!-- Cloud & DevOps -->
+#### ☁️ Cloud & DevOps
+<p>
   <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=FF9900" />
   <img src="https://img.shields.io/badge/GCP-4285F4?logo=googlecloud&logoColor=white" />
   <img src="https://img.shields.io/badge/Azure-0078D4?logo=microsoft-azure&logoColor=white" />
@@ -72,16 +82,20 @@
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white" />
   <img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white" />
+</p>
 
-  <!-- AI/ML -->
+#### 🤖 AI / ML
+<p>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikitlearn&logoColor=white" />
   <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=black" />
   <img src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/LangChain-121212?logo=chainlink&logoColor=white" />
+</p>
 
-  <!-- Monitoring -->
+#### 📊 Monitoring & Observability
+<p>
   <img src="https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white" />
   <img src="https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white" />
   <img src="https://img.shields.io/badge/Elastic-005571?logo=elastic&logoColor=white" />
