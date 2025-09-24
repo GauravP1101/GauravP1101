@@ -136,5 +136,5 @@ Implemented a research codebase to explore certified robustness techniques for d
 
 ---
 
-💡 Focused on building **robust software engineering solutions** that scale, while leveraging my full-stack, data, cloud, and AI/ML expertise.  
+💡 Focused on building robust software engineering solutions that scale, while leveraging my full-stack, data, cloud, & AI/ML expertise.  
 📫 Reach me at <a href="mailto:patel1101gaurav@gmail.com">patel1101gaurav@gmail.com</a> or on <a href="https://www.linkedin.com/in/ggp11/">LinkedIn</a>.
