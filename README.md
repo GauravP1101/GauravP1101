@@ -96,14 +96,6 @@
 
 ---
 
-### 📈 By the numbers
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GauravP1101&show_icons=true&theme=radical" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GauravP1101&layout=compact&theme=radical" height="160" />
-</p>
-
----
-
 ### 🤝 I love collaborating on
 - **Software Engineering projects**: scalable apps & clean architecture  
 - **Full-stack development**: React frontends + Node/Spring Boot backends  
