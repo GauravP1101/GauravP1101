@@ -138,6 +138,7 @@ Built a machine learning pipeline that leverages NLP preprocessing and vectoriza
 Implemented a research codebase to explore certified robustness techniques for defending NLP systems against adversarial text attacks. The framework provides reproducible experiments, evaluation scripts, and robustness metrics, contributing to the field of secure and trustworthy AI. Results highlight novel approaches for maintaining model integrity under adversarial pressure.  
 🔗 [View on GitHub](https://github.com/GauravP1101?tab=repositories)  
 
+---
 
 💡 Focused on building **robust software engineering solutions** that scale, while leveraging my full-stack, data, cloud, and AI/ML expertise.  
 📫 Reach me at <a href="mailto:patel1101gaurav@gmail.com">patel1101gaurav@gmail.com</a> or on <a href="https://www.linkedin.com/in/ggp11/">LinkedIn</a>.
