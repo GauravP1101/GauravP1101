@@ -114,8 +114,6 @@
 Developed an AI-powered tool that parses resumes, extracts key skills, and compares them against job descriptions using Sentence Transformers. The system generates ATS scores and highlights missing skills, giving candidates actionable insights for resume optimization. Benchmarks show a ~25% improvement in accuracy compared to traditional keyword matchers.  
 🔗 [View on GitHub](https://github.com/GauravP1101?tab=repositories)  
 
----
-
 #### 📰 FakeNews-Detection  
 *End-to-end machine learning pipeline for fake news classification*  
 
@@ -125,8 +123,6 @@ Developed an AI-powered tool that parses resumes, extracts key skills, and compa
 
 Built a machine learning pipeline that leverages NLP preprocessing and vectorization (TF-IDF, Word2Vec) to classify fake vs. real news articles. The system experiments with multiple models—including Logistic Regression, SVM, and LSTM—and achieves over 90% classification accuracy. This project demonstrates how machine learning can support media credibility and fact-checking initiatives.  
 🔗 [View on GitHub](https://github.com/GauravP1101?tab=repositories)  
-
----
 
 #### 🔐 Text-CRS_NTS_Final  
 *Research framework for certified robustness in NLP systems*  
