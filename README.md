@@ -111,9 +111,7 @@
 [![Gradio](https://img.shields.io/badge/Gradio-FF4B4B?logo=python&logoColor=white)](https://www.gradio.app/) 
 [![NLP](https://img.shields.io/badge/NLP-Transformers-blue)](https://huggingface.co/transformers/)  
 
-- Parses resumes, extracts skills, and matches against job descriptions  
-- Provides calibrated **ATS scores** and highlights missing skills  
-- 🚀 Improved accuracy by **~25% vs. keyword matchers**  
+Developed an AI-powered tool that parses resumes, extracts key skills, and compares them against job descriptions using Sentence Transformers. The system generates ATS scores and highlights missing skills, giving candidates actionable insights for resume optimization. Benchmarks show a ~25% improvement in accuracy compared to traditional keyword matchers.  
 🔗 [View on GitHub](https://github.com/GauravP1101?tab=repositories)  
 
 ---
@@ -125,9 +123,7 @@
 [![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikit-learn&logoColor=white)](https://scikit-learn.org/) 
 [![NLP](https://img.shields.io/badge/NLP-TF--IDF%20%7C%20Word2Vec-green)](https://en.wikipedia.org/wiki/Word2vec)  
 
-- Implemented **NLP preprocessing & vectorization** (TF-IDF, Word2Vec)  
-- Trained models: **LogReg, SVM, LSTM** → achieved **>90% accuracy**  
-- 🚀 Research project supporting **media credibility analysis**  
+Built a machine learning pipeline that leverages NLP preprocessing and vectorization (TF-IDF, Word2Vec) to classify fake vs. real news articles. The system experiments with multiple models—including Logistic Regression, SVM, and LSTM—and achieves over 90% classification accuracy. This project demonstrates how machine learning can support media credibility and fact-checking initiatives.  
 🔗 [View on GitHub](https://github.com/GauravP1101?tab=repositories)  
 
 ---
@@ -139,10 +135,9 @@
 [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)](https://pytorch.org/) 
 [![NLP](https://img.shields.io/badge/NLP-Adversarial%20Robustness-orange)](https://arxiv.org/)  
 
-- Designed **robustness certification techniques** for adversarial defense  
-- Developed **evaluation scripts & reproducible experiments**  
-- 🚀 Contributed to advancing **secure & trustworthy AI research**  
+Implemented a research codebase to explore certified robustness techniques for defending NLP systems against adversarial text attacks. The framework provides reproducible experiments, evaluation scripts, and robustness metrics, contributing to the field of secure and trustworthy AI. Results highlight novel approaches for maintaining model integrity under adversarial pressure.  
 🔗 [View on GitHub](https://github.com/GauravP1101?tab=repositories)  
+
 
 💡 Focused on building **robust software engineering solutions** that scale, while leveraging my full-stack, data, cloud, and AI/ML expertise.  
 📫 Reach me at <a href="mailto:patel1101gaurav@gmail.com">patel1101gaurav@gmail.com</a> or on <a href="https://www.linkedin.com/in/ggp11/">LinkedIn</a>.
