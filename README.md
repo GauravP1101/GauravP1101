@@ -5,18 +5,19 @@
 
 <p align="center">
   <a href="mailto:patel1101gaurav@gmail.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg?color=white" alt="Gmail" height="28" width="28" />
+    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon-white.svg" alt="Gmail" height="28" width="28" />
     Email
   </a> &nbsp; | &nbsp;
   <a href="https://www.linkedin.com/in/ggp11/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg?color=white" alt="LinkedIn" height="28" width="28" />
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon-white.svg" alt="LinkedIn" height="28" width="28" />
     LinkedIn
   </a> &nbsp; | &nbsp;
   <a href="https://github.com/GauravP1101?tab=repositories" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg?color=white" alt="GitHub" height="28" width="28" />
+    <img src="https://www.vectorlogo.zone/logos/github/github-icon-white.svg" alt="GitHub" height="28" width="28" />
     GitHub
   </a>
 </p>
+
 
 
 
