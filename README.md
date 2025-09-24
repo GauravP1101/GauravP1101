@@ -3,17 +3,12 @@
 <h1 align="center">Hi 👋, I'm Gaurav Patel</h1>
 <h3 align="center">Software Engineer | Full-Stack Development • Cloud-Native Systems • AI/ML Integration</h3>
 
-<p align="center">
-  <a href="mailto:patel1101gaurav@gmail.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" alt="Gmail" height="30" width="30" />
-  </a> &nbsp;
-  <a href="https://www.linkedin.com/in/ggp11/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" height="30" width="30" />
-  </a> &nbsp;
-  <a href="https://github.com/GauravP1101?tab=repositories" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" alt="GitHub" height="30" width="30" />
-  </a>
-</p>
+<p align="center"> 
+  <a href="mailto:patel1101gaurav@gmail.com">Email</a> 
+   
+  <a href="https://www.linkedin.com/in/ggp11/">LinkedIn</a> 
+  
+  <a href="https://github.com/GauravP1101?tab=repositories">GitHub</a> </p>
 
 
 
