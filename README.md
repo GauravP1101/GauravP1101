@@ -107,6 +107,18 @@
 - **Visualization & monitoring**: Grafana, Power BI, Tableau, Prometheus  
 
 ---
+### 🔧 Featured Projects
+
+- **[Resume ATS Analyzer](https://github.com/GauravP1101/resume-ats-analyzer)**  
+  Python + Gradio app that parses resumes, extracts skills, and compares against job descriptions using Sentence Transformers. Provides calibrated ATS scores and highlights missing skills.
+
+- **[FakeNews-Detection](https://github.com/GauravP1101/FakeNews-Detection)**  
+  Machine learning project in Jupyter Notebook to classify fake vs. real news. Explores NLP preprocessing, vectorization, and classification models for text credibility analysis.
+
+- **[Text-CRS_NTS_Final](https://github.com/GauravP1101/Text-CRS_NTS_Final)**  
+  Research codebase implementing *Text-CRS*, a framework for certified robustness against adversarial text attacks. Includes experiments, evaluation scripts, and robustness metrics.
+
+---
 
 💡 Focused on building **robust software engineering solutions** that scale, while leveraging my full-stack, data, cloud, and AI/ML expertise.  
 📫 Reach me at <a href="mailto:patel1101gaurav@gmail.com">patel1101gaurav@gmail.com</a> or on <a href="https://www.linkedin.com/in/ggp11/">LinkedIn</a>.
