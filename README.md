@@ -4,7 +4,7 @@
 <h3 align="center">Software Engineer | Full-Stack Development • Cloud-Native Systems • AI/ML Integration</h3>
 
 <p align="center"> <a href="mailto:patel1101gaurav@gmail.com">Email</a> • <a href="https://www.linkedin.com/in/ggp11/">LinkedIn</a> • <a href="https://github.com/GauravP1101?tab=repositories">GitHub</a> </p>
----
+
 
 ### 🔭 What I’m focused on
 - Designing **scalable full-stack applications** with React, Node.js, and Spring Boot  
