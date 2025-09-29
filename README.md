@@ -58,7 +58,7 @@
   <a href="https://www.oracle.com/database/" target="_blank" title="Oracle"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="40"/></a>
 </p>  
 
-#### ☁️ Cloud & DevOps  
+#### ☁️ Cloud & DevOps
 <p>
   <a href="https://aws.amazon.com/" target="_blank" title="AWS"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="50"/></a>
   <a href="https://cloud.google.com/" target="_blank" title="Google Cloud (GCP)"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="GCP" width="40"/></a>
