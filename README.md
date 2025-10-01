@@ -122,6 +122,7 @@
 - ⚙️ Built AI-powered parser that extracts skills & compares with JDs using transformers  
 - 📈 Improved ATS matching accuracy by ~25% over keyword matchers  
 - 🎯 Helps job seekers optimize resumes with actionable insights 
+
 🔗 [View on GitHub](https://github.com/GauravP1101?tab=repositories)  
 
 #### 📰 FakeNews-Detection  
