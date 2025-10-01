@@ -152,5 +152,5 @@
 
 ---
 💡 Always exploring **how engineering + AI can solve real problems at scale**.  
-📫 Let’s connect: <a href="mailto:patel1101gaurav@gmail.com">Email</a> | <a href="https://www.linkedin.com/in/ggp11/">LinkedIn</a> | <a href="https://github.com/GauravP1101">GitHub</a>  
+📫 Let’s connect: <a href="mailto:patel1101gaurav@gmail.com">Email</a> 
 ---
