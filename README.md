@@ -119,7 +119,9 @@
 [![Gradio](https://img.shields.io/badge/Gradio-FF4B4B?logo=python&logoColor=white)](https://www.gradio.app/) 
 [![NLP](https://img.shields.io/badge/NLP-Transformers-blue)](https://huggingface.co/transformers/)  
 
-Developed an AI-powered tool that parses resumes, extracts key skills, and compares them against job descriptions using Sentence Transformers. The system generates ATS scores and highlights missing skills, giving candidates actionable insights for resume optimization. Benchmarks show a ~25% improvement in accuracy compared to traditional keyword matchers.  
+- ⚙️ Built AI-powered parser that extracts skills & compares with JDs using transformers  
+- 📈 Improved ATS matching accuracy by ~25% over keyword matchers  
+- 🎯 Helps job seekers optimize resumes with actionable insights 
 🔗 [View on GitHub](https://github.com/GauravP1101?tab=repositories)  
 
 #### 📰 FakeNews-Detection  
@@ -129,7 +131,10 @@ Developed an AI-powered tool that parses resumes, extracts key skills, and compa
 [![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikit-learn&logoColor=white)](https://scikit-learn.org/) 
 [![NLP](https://img.shields.io/badge/NLP-TF--IDF%20%7C%20Word2Vec-green)](https://en.wikipedia.org/wiki/Word2vec)  
 
-Built a machine learning pipeline that leverages NLP preprocessing and vectorization (TF-IDF, Word2Vec) to classify fake vs. real news articles. The system experiments with multiple models—including Logistic Regression, SVM, and LSTM—and achieves over 90% classification accuracy. This project demonstrates how machine learning can support media credibility and fact-checking initiatives.  
+- 🧹 Implemented NLP preprocessing (TF-IDF, Word2Vec) & multiple ML models  
+- 🏆 Achieved >90% classification accuracy across benchmark datasets  
+- 🔍 Demonstrates ML’s role in supporting fact-checking initiatives 
+
 🔗 [View on GitHub](https://github.com/GauravP1101?tab=repositories)  
 
 #### 🔐 Text-CRS_NTS_Final  
@@ -139,10 +144,13 @@ Built a machine learning pipeline that leverages NLP preprocessing and vectoriza
 [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)](https://pytorch.org/) 
 [![NLP](https://img.shields.io/badge/NLP-Adversarial%20Robustness-orange)](https://arxiv.org/)  
 
-Implemented a research codebase to explore certified robustness techniques for defending NLP systems against adversarial text attacks. The framework provides reproducible experiments, evaluation scripts, and robustness metrics, contributing to the field of secure and trustworthy AI. Results highlight novel approaches for maintaining model integrity under adversarial pressure.  
+- 🛡️ Explored adversarial robustness for NLP models  
+- 📊 Developed reproducible experiments & evaluation scripts in PyTorch  
+- 🔎 Contributed insights for trustworthy & secure AI research 
+
 🔗 [View on GitHub](https://github.com/GauravP1101?tab=repositories)  
 
 ---
-
-💡 Focused on building robust software engineering solutions that scale, while leveraging my full-stack, data, cloud, & AI/ML expertise.  
-📫 Reach me at <a href="mailto:patel1101gaurav@gmail.com">patel1101gaurav@gmail.com</a> or on <a href="https://www.linkedin.com/in/ggp11/">LinkedIn</a>.
+💡 Always exploring **how engineering + AI can solve real problems at scale**.  
+📫 Let’s connect: <a href="mailto:patel1101gaurav@gmail.com">Email</a> | <a href="https://www.linkedin.com/in/ggp11/">LinkedIn</a> | <a href="https://github.com/GauravP1101">GitHub</a>  
+---
