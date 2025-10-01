@@ -1,17 +1,26 @@
 <!-- Profile Landing Page for Gaurav Patel -->
 
 <h1 align="center">Hi 👋, I'm Gaurav Patel</h1>
-<h3 align="center">Software Engineer | Full-Stack Development • Cloud-Native Systems • AI/ML Integration</h3>
+<h3 align="center">Full-Stack Software Engineer | Cloud-Native Systems | AI/ML Enthusiast</h3>
 
-<p align="center"> <a href="mailto:patel1101gaurav@gmail.com">Email</a> • <a href="https://www.linkedin.com/in/ggp11/">LinkedIn</a> • <a href="https://github.com/GauravP1101?tab=repositories">GitHub</a> </p>
+<p align="center">
+  🚀 Passionate about building **scalable, reliable, and user-focused applications** <br/>
+  💡 Blending **engineering, data, and AI** to create smarter solutions <br/>
+</p>
+
+<p align="center">
+  <a href="mailto:patel1101gaurav@gmail.com">Email</a> • 
+  <a href="https://www.linkedin.com/in/ggp11/">LinkedIn</a> • 
+  <a href="https://github.com/GauravP1101?tab=repositories">GitHub</a>
+</p>
 
 
-### 🔭 What I’m focused on
-- Designing **scalable full-stack applications** with React, Node.js, and Spring Boot  
-- Engineering **cloud-native backends** with AWS/GCP, Docker, and Kubernetes  
-- Building **data-driven systems** with SQL, Kafka, Spark, and real-time pipelines  
-- Integrating **AI/ML models** into production for smarter, reliable applications  
-- Automating workflows & deployments with **DevOps tools**  
+### 🔭 Current Focus
+- 🖥️ Crafting **scalable full-stack apps** with React, Node.js & Spring Boot  
+- ☁️ Building **cloud-native backends** on AWS/GCP with Docker & Kubernetes  
+- 📊 Architecting **real-time data systems** with Kafka, Spark & streaming pipelines  
+- 🤖 Embedding **AI/ML models** into production apps for real impact  
+- ⚙️ Automating workflows with **DevOps practices** (CI/CD, Terraform, Jenkins)  
 
 ---
 
@@ -91,15 +100,14 @@
 
 ---
 
-### 🤝 I love collaborating on
-- **Software Engineering projects**: scalable apps & clean architecture  
-- **Full-stack development**: React frontends + Node/Spring Boot backends  
-- **Cloud-native systems**: AWS, GCP, Azure with microservices & APIs  
-- **Real-time data pipelines**: Kafka, Spark, Flink, Airflow  
-- **DevOps automation**: CI/CD, Docker, Kubernetes, Terraform  
-- **AI/ML integration**: deploying PyTorch/TensorFlow models into production apps  
-- **Open-source contributions**: Hugging Face, LangChain, MLOps tools  
-- **Visualization & monitoring**: Grafana, Power BI, Tableau, Prometheus  
+### 🤝 I Love Collaborating On
+- ⚡ **Scalable full-stack apps** with clean architecture  
+- ☁️ **Cloud-native systems** with microservices & APIs  
+- 🔄 **Real-time data pipelines** (Kafka, Spark, Flink, Airflow)  
+- 🚀 **DevOps automation** (CI/CD, Kubernetes, Terraform)  
+- 🤖 **AI/ML deployments** (PyTorch/TensorFlow → production)  
+- 🌍 **Open-source projects** in MLOps, LangChain, Hugging Face  
+- 📊 **Visualization & monitoring** (Grafana, Prometheus, Power BI, Tableau)  
 
 ---
 ### 🔧 Featured Projects  
