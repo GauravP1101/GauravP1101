@@ -4,8 +4,8 @@
 <h3 align="center">Full-Stack Software Engineer | Cloud-Native Systems | AI/ML Enthusiast</h3>
 
 <p align="center">
-  🚀 Passionate about building **scalable, reliable, and user-focused applications** <br/>
-  💡 Blending **engineering, data, and AI** to create smarter solutions <br/>
+  🚀 Passionate about building scalable, reliable, and user-focused applications <br/>
+  💡 Blending engineering, data, and AI to create smarter solutions <br/>
 </p>
 
 <p align="center">
