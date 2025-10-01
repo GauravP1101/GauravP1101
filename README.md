@@ -153,5 +153,4 @@
 
 ---
 💡 Always exploring **how engineering + AI can solve real problems at scale**.  
-📫 Let’s connect: <a href="mailto:patel1101gaurav@gmail.com">Email</a> 
 ---
