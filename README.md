@@ -138,18 +138,6 @@
 
 🔗 [View on GitHub](https://github.com/GauravP1101?tab=repositories)  
 
-#### 🔐 Text-CRS_NTS_Final  
-*Research framework for certified robustness in NLP systems*  
-
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org/) 
-[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)](https://pytorch.org/) 
-[![NLP](https://img.shields.io/badge/NLP-Adversarial%20Robustness-orange)](https://arxiv.org/)  
-
-- 🛡️ Explored adversarial robustness for NLP models  
-- 📊 Developed reproducible experiments & evaluation scripts in PyTorch  
-- 🔎 Contributed insights for trustworthy & secure AI research 
-
-🔗 [View on GitHub](https://github.com/GauravP1101?tab=repositories)  
 
 ---
 💡 Always exploring **how engineering + AI can solve real problems at scale**.  
