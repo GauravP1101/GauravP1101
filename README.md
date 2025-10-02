@@ -110,22 +110,5 @@
 - 📊 **Visualization & monitoring** (Grafana, Prometheus, Power BI, Tableau)  
 
 ---
-### 🔧 Featured Projects  
-
-#### 📄 Resume ATS Analyzer  
-*Python + Gradio app for smarter resume screening*  
-
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org/) 
-[![Gradio](https://img.shields.io/badge/Gradio-FF4B4B?logo=python&logoColor=white)](https://www.gradio.app/) 
-[![NLP](https://img.shields.io/badge/NLP-Transformers-blue)](https://huggingface.co/transformers/)  
-
-- ⚙️ Built AI-powered parser that extracts skills & compares with JDs using transformers  
-- 📈 Improved ATS matching accuracy by ~25% over keyword matchers  
-- 🎯 Helps job seekers optimize resumes with actionable insights 
-
-🔗 [View on GitHub](https://github.com/GauravP1101?tab=repositories)  
-
-
----
 💡 Always exploring **how engineering + AI can solve real problems at scale**.  
 ---
