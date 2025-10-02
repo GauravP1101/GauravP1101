@@ -125,19 +125,6 @@
 
 🔗 [View on GitHub](https://github.com/GauravP1101?tab=repositories)  
 
-#### 📰 FakeNews-Detection  
-*End-to-end machine learning pipeline for fake news classification*  
-
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org/) 
-[![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikit-learn&logoColor=white)](https://scikit-learn.org/) 
-[![NLP](https://img.shields.io/badge/NLP-TF--IDF%20%7C%20Word2Vec-green)](https://en.wikipedia.org/wiki/Word2vec)  
-
-- 🧹 Implemented NLP preprocessing (TF-IDF, Word2Vec) & multiple ML models  
-- 🏆 Achieved >90% classification accuracy across benchmark datasets  
-- 🔍 Demonstrates ML’s role in supporting fact-checking initiatives 
-
-🔗 [View on GitHub](https://github.com/GauravP1101?tab=repositories)  
-
 
 ---
 💡 Always exploring **how engineering + AI can solve real problems at scale**.  
